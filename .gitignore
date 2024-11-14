@@ -1,0 +1,11 @@
+#ignorar archivo 
+.DS_Store
+configuracion_local.sh
+
+#ignorar carpeta o directorio
+archivos_privados/
+
+
+#ignorar todos los archivos con extensiones photoshop y gimp
+*.psd
+*.xcf
